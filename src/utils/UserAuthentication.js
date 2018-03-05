@@ -1,7 +1,7 @@
 import Expo from 'expo';
 
 const ANDROID_ID = 'CLIENT_ID'; // <--- ADD CLIENT ID HERE FOR ANDROID!
-const IOS_ID = '404770912037-hvjgnq5kafthv4qrfcaqlddf001rba3g.apps.googleusercontent.com'; // <--- ADD CLIENT ID HERE FOR IOS!
+const IOS_ID = ''; // <--- ADD CLIENT ID HERE FOR IOS!
 const SUCCESS = 'success'; 
 
 export const signInWithGoogleAsync = async () => {
